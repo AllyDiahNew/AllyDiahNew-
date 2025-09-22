@@ -30,6 +30,10 @@
 
 #### Languages 
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+
+![Python](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=python)
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -65,6 +69,8 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=django)
+
 
 #### Web Hosting
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
@@ -88,40 +94,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
-``` javascript
-function attractEveryone() {
-  const userInput = prompt("Enter your target audience: ");
-  const lowerCaseInput = userInput.toLowerCase();
-
-  switch (lowerCaseInput) {
-    case 'customers':
-      alert("🌟 Discover amazing solutions tailored for you! 🌟");
-      break;
-    case 'recruiters':
-      alert("🚀 Unlock talent that transforms visions into reality! 🚀");
-      break;
-    case 'company_owners':
-      alert("💼 Elevate your business with cutting-edge innovation! 💼");
-      break;
-    case 'students':
-      alert("🎓 Empowering the next generation of tech leaders! 🎓");
-      break;
-    case 'tech_enthusiasts':
-      alert("⚡️ Dive into the world of endless possibilities! ⚡️");
-      break;
-    default:
-      alert("❌ Invalid audience. Please enter one of the following: customers, recruiters, company_owners, students, tech_enthusiasts");
-      // Prompt the user again for a valid input
-      attractEveryone();
-      return; // Exit the function to avoid displaying the default message again
-  }
-}
-
-// Start the process by calling the function
-attractEveryone();
+``` 
 
 
-// - Ally Diah
+
+
+
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maintaintechtz&show_icons=true&locale=en&layout=compact" alt="maintaintechtz" /></p>
